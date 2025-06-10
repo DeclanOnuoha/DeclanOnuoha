@@ -5,6 +5,7 @@ I'm a Data Analyst and AI Engineer with a passion for using data-driven insights
 
 I also love cooking for friends and family 🍳 — it's my way of blending creativity with a dash of love. Whether it's a weekend BBQ or a cozy dinner, cooking brings me joy and allows me to share memorable moments with those I care about.
 
+Check out my recent works 🌐 [Portfolio](https://declanonuoha.github.io/Portfolio/)
 ---
 
 ## 🛠️ Technical Skills
@@ -43,7 +44,6 @@ I also love cooking for friends and family 🍳 — it's my way of blending crea
 ---
 
 ## 📫 Connect with Me!
-- 🌐 [Portfolio](https://declanonuoha.github.io/Portfolio/)
 <div align="left">
   <a href="https://www.linkedin.com/in/declan-onuoha/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -58,7 +58,6 @@ I also love cooking for friends and family 🍳 — it's my way of blending crea
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
 
 ---
 > ***"In the world of data, every number tells a story — it's our job to make sure it speaks clearly."***
