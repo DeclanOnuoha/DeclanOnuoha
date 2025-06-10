@@ -49,7 +49,4 @@ I also love cooking for friends and family 🍳 — it's my way of blending crea
 
 ---
 
-###
----
-
 > ***"In the world of data, every number tells a story — it's our job to make sure it speaks clearly."***
