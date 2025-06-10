@@ -47,6 +47,24 @@ I also love cooking for friends and family 🍳 — it's my way of blending crea
 - 💼 [LinkedIn](https://www.linkedin.com/in/declan-onuoha/)
 - 🌐 [Portfolio](https://declanonuoha.github.io/Portfolio/)
 
----
-
 > ***"In the world of data, every number tells a story — it's our job to make sure it speaks clearly."***
+
+
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DeclanOnuoha.DeclanOnuoha&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DeclanOnuoha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
