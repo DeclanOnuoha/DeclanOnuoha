@@ -1,8 +1,10 @@
 
+![My Photo](pic2.jpg)
+
 
 ###
 
-<h1 align="center">I'm Declan Onuoha 👋</h1>
+<h1 align="center"> I'm Declan Onuoha </h1>
 
 ## About Me
 I'm a Data Analyst and AI Engineer with a passion for using data-driven insights to solve real-world problems. My expertise lies in harnessing advanced analytics, machine learning, and AI techniques to provide impactful solutions. With a strong foundation in data analysis and AI model development, I am committed to building intelligent systems that optimize decision-making processes across industries.
