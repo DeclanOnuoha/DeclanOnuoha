@@ -43,8 +43,20 @@ I also love cooking for friends and family 🍳 — it's my way of blending crea
 ---
 
 ## 📫 Connect with Me!
-- 📧 **Email**: [declanonuoha18@gmail.com](mailto:declanonuoha18@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/declan-onuoha/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/declan-onuoha/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/OnuohaDecl97874" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/_declany?igsh=dTl3MnZ2OTJjd3lz&utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="[declanonuoha18@gmail.com](mailto:declanonuoha18@gmail.com)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 - 🌐 [Portfolio](https://declanonuoha.github.io/Portfolio/)
 
 > ***"In the world of data, every number tells a story — it's our job to make sure it speaks clearly."***
