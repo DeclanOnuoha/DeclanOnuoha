@@ -5,7 +5,9 @@ I'm a Data Analyst and AI Engineer with a passion for using data-driven insights
 
 I also love cooking for friends and family 🍳 — it's my way of blending creativity with a dash of love. Whether it's a weekend BBQ or a cozy dinner, cooking brings me joy and allows me to share memorable moments with those I care about.
 
-Check out my recent works 🌐 [Portfolio](https://declanonuoha.github.io/Portfolio/)
+Check out my recent works [here](https://declanonuoha.github.io/Portfolio/)
+
+
 ---
 
 ## 🛠️ Technical Skills
