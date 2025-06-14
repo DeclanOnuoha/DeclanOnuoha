@@ -49,7 +49,7 @@ Check out my recent works <a href="https://declanonuoha.github.io/Portfolio/" ta
 
 - 📧 Email: [declanonuoha18@gmail.com](mailto:declanonuoha18@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/declan-onuoha/)
-- 🌐 [Website](https://declanonuoha.github.io/Portfolio/#portfolio)
+- 🌐 [Website](https://declanonuoha.github.io/Portfolio/#home)
 
 ---
 
