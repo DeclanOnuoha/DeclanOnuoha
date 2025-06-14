@@ -14,10 +14,6 @@ I also love cooking for friends and family 🍳 — it's my way of blending crea
 Check out my recent works <a href="https://declanonuoha.github.io/Portfolio/" target="_blank" style="text-decoration: none; color: inherit;">here</a>
 
 
-
-
----
-
 ## 🛠️ Technical Skills
 - **Data Analysis & Statistical Modeling**  
 - **Data Visualization & Reporting**
@@ -25,7 +21,6 @@ Check out my recent works <a href="https://declanonuoha.github.io/Portfolio/" ta
 - **Big Data Tools & Frameworks**
 - **ETL Processes & Data Wrangling**
 
----
 
 ## 🔭 Core Competencies
 - Conducting **Exploratory Data Analysis (EDA)** and data wrangling
@@ -37,7 +32,6 @@ Check out my recent works <a href="https://declanonuoha.github.io/Portfolio/" ta
 - Implementing **AI algorithms** to solve complex problems
 - **Data-driven decision-making** and reporting to stakeholders
 
----
 ## Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -51,25 +45,15 @@ Check out my recent works <a href="https://declanonuoha.github.io/Portfolio/" ta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>  
 
----
 ## 📫 Connect with Me!
-<div align="left">
-  <a href="https://www.linkedin.com/in/declan-onuoha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/OnuohaDecl97874" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/_declany?igsh=dTl3MnZ2OTJjd3lz&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="[declanonuoha18@gmail.com](mailto:declanonuoha18@gmail.com)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+
+- 📧 Email: [declanonuoha18@gmail.com](mailto:declanonuoha18@gmail.com)
+- 💼 [LinkedIn](https://https://www.linkedin.com/in/declan-onuoha/)
+- 🌐 [Website](https://declanonuoha.github.io/Portfolio/#portfolio)
 
 ---
-> ***"In the world of data, every number tells a story — it's our job to make sure it speaks clearly."***
+
+ **"In the world of data, every number tells a story, it's our job to make sure it speaks clearly."**
 
 
 ###
