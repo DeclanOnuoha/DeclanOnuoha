@@ -1,4 +1,4 @@
-![My Photo](Linkedin_Banner.jpg)  
+![My Photo](Linkedin_Banner.png)  
 ###  
 I'm Declan Onuoha  
 ## About Me  
