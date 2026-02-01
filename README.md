@@ -1,75 +1,38 @@
-
-![My Photo](pic2.jpg)
-
-
-###
-
-<h1 align="center"> I'm Declan Onuoha </h1>
-
-## About Me
-I'm a Data Analyst and AI Engineer with a passion for using data-driven insights to solve real-world problems. My expertise lies in harnessing advanced analytics, machine learning, and AI techniques to provide impactful solutions. With a strong foundation in data analysis and AI model development, I am committed to building intelligent systems that optimize decision-making processes across industries.
-
-I also love cooking for friends and family 🍳 — it's my way of blending creativity with a dash of love. Whether it's a weekend BBQ or a cozy dinner, cooking brings me joy and allows me to share memorable moments with those I care about.
-
-Check out my recent works <a href="https://declanonuoha.github.io/Portfolio/" target="_blank" style="text-decoration: none; color: inherit;">here</a>
-
-
-## 🛠️ Technical Skills
-- **Data Analysis & Statistical Modeling**  
-- **Data Visualization & Reporting**
-- **Machine Learning & AI Engineering**
-- **Big Data Tools & Frameworks**
-- **ETL Processes & Data Wrangling**
-
-
-## 🔭 Core Competencies
-- Conducting **Exploratory Data Analysis (EDA)** and data wrangling
-- Building interactive **data visualizations** and dashboards
-- Performing **statistical analysis** for actionable business insights
-- **Predictive analytics** and building forecasting models
-- Developing and deploying **machine learning models** 
-- Automating **data pipelines** for improved workflow efficiency
-- Implementing **AI algorithms** to solve complex problems
-- **Data-driven decision-making** and reporting to stakeholders
-
-## Languages and Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>  
-
-## 📫 Connect with Me!
-
-- 📧 Email: [declanonuoha18@gmail.com](mailto:declanonuoha18@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/declan-onuoha/)
-- 🌐 [Website](https://declanonuoha.github.io/Portfolio/#home)
-
----
-
- **"In the world of data, every number tells a story, it's our job to make sure it speaks clearly."**
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DeclanOnuoha.DeclanOnuoha&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DeclanOnuoha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+![My Photo](pic2.jpg)  
+###  
+I'm Declan Onuoha  
+## About Me  
+I'm a Test Automation Engineer with over three years of experience in automated testing and quality assurance. I've increased test coverage by 40%, reduced post-release defects by 30%, and lowered production incidents by 20% through effective test planning, regression testing, defect management, and close collaboration in Agile/Scrum teams. My work spans e-commerce, healthcare, gaming, finance, market research, and tourism. Currently completing an MSc in Artificial Intelligence at the University of Jyväskylä, with interest in AI for testing improvements like predictive defect detection and self-healing automation. I also love cooking for friends and family 🍳. It's my way of blending creativity with a dash of love. Whether it's a weekend BBQ or a cozy dinner, cooking brings me joy and allows me to share memorable moments with those I care about. Check out my recent works here  
+## 🛠️ Technical Skills  
+- **Test Automation**  
+- **API Testing**  
+- **Programming & Scripting**  
+- **Quality Assurance Tools & Frameworks**  
+- **Agile/Scrum Methodologies**  
+## 🔭 Core Competencies  
+- Developing and designing test cases, test sets, and test plans based on requirements  
+- Building and maintaining automation frameworks using tools like Robot Framework, Java Cucumber BDD, Cypress, Selenium, and Playwright  
+- Automating API responses and checks with Postman, Swagger, and Robot Framework Request Library  
+- Performing regression testing, defect tracking, and re-testing in tools like Jira, Xray, and Git  
+- Collaborating with developers and stakeholders to analyze requirements, generate acceptance criteria, and prioritize backlogs  
+- Executing compatibility and cross-browser testing using BrowserStack  
+- Participating in daily Scrum meetings, sprint planning, and achieving high task completion rates  
+- Managing version control from a QA perspective and contributing to CI/CD pipelines  
+- Generating test reports for stakeholders and ensuring high-quality deliverables through agile methodologies  
+## Languages and Tools  
+- **Programming**: Java, Python, JavaScript  
+- **Test Automation**: Robot Framework (Selenium, Browser, Request libraries; keyword- and data-driven), Java Cucumber BDD (Maven, JUnit, Gherkin), Cypress, Selenium WebDriver, Playwright, Appium, Pytest, TestNG  
+- **API Testing**: Postman, Swagger, Serenity BDD, Robot Framework Request Library  
+- **Tools**: Jira, Xray, TestRail, Bugzilla, BrowserStack, Git, AWS, Azure, SQL, MongoDB  
+- **Methodologies**: Agile, Scrum, DevOps, CI/CD, SDLC  
+- **Others**: Test planning, regression testing, defect tracking, cross-browser testing, stakeholder reporting  
+## 📫 Connect with Me!  
+- 📧 Email: [declanonuoha18@gmail.com](mailto:declanonuoha18@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/declan-onuoha/)  
+- 🌐 [Website](https://declanonuoha.github.io/Portfolio/#home)  
+---  
+**"In the world of software, quality is not an act, it's a habit, and testing ensures it endures."**  
+###  
+🔥 My Stats :  
+###  
+###  
