@@ -1,6 +1,6 @@
 ![My Photo](Linkedin_Banner.png)  
 ###  
-I'm Declan Onuoha  
+
 ## About Me  
 I'm a Test Automation Engineer with over three years of experience in automated testing and quality assurance. I've increased test coverage by 40%, reduced post-release defects by 30%, and lowered production incidents by 20% through effective test planning, regression testing, defect management, and close collaboration in Agile/Scrum teams. My work spans e-commerce, healthcare, gaming, finance, market research, and tourism. Currently completing an MSc in Artificial Intelligence at the University of Jyväskylä, with interest in AI for testing improvements like predictive defect detection and self-healing automation. I also love cooking for friends and family 🍳. It's my way of blending creativity with a dash of love. Whether it's a weekend BBQ or a cozy dinner, cooking brings me joy and allows me to share memorable moments with those I care about. Check out my recent works here  
 ## 🛠️ Technical Skills  
